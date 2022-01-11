@@ -45,14 +45,14 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Kushagar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kushagarpathak&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kushagar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kushagrapathak155&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Kushagar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagarpathak" />
+<img align="left" alt="Kushagar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrapathak155" />
 
 </details>
 
